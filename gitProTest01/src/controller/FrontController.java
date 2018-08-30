@@ -16,6 +16,7 @@ public class FrontController extends HttpServlet {
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	  response.getWriter().println("Hello world");
 	  response.getWriter().println("Kwondain");
+	  response.getWriter().println("Hello2 world");
 	  
 	}
 
