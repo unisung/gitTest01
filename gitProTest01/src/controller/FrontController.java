@@ -18,7 +18,7 @@ public class FrontController extends HttpServlet {
 	  response.getWriter().println("Kwondain");
 	  response.getWriter().println("Hello2 world");
 	  response.getWriter().println("test");
-	  
+	  response.getWriter().println("june Test");
 	}
 
 }
